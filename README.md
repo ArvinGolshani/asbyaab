@@ -1,6 +1,6 @@
 # 🐴 AsbYab | Equestrian Finder App (Archived)
 
-![AsbYab Banner](path/to/banner.png)
+<img src="assets/logo2-1.png" alt="AsbYab Banner" width="200">
 
 [![PHP](https://img.shields.io/badge/PHP-7.4-blue?logo=php&logoColor=white)](https://www.php.net/) 
 [![HTML5](https://img.shields.io/badge/HTML5-orange?logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML) 
@@ -55,10 +55,10 @@ This project demonstrates my ability to build **functional, responsive, and user
 ## 📸 Screenshots
 
 ### Home Page
-![Home Page](path/to/home-screenshot.png)
+<img src="assets/home.png" alt="AsbYab Banner" width="200">
 
 ### Horse Details
-![Horse Details](path/to/horse-details-screenshot.png)
+<img src="assets/horse.png" alt="AsbYab Banner" width="200">
 
 ---
 
